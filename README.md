@@ -146,7 +146,7 @@ console.log(language);
 
 5. ✅ Correct – ??= checks specifically for null or undefined.
 
-6. ❌ Incorrect – config.max ||= 10; does not assign 10 because 0 is falsy, so it does assign. Answer should be A: 10 – correction made, so your answer was correct.
+6. ❌ Incorrect – config.max ||= 10; does not assign 10 because 0 is falsy, so it does assign. The answer should be A: 10 – correction made, so your answer was **Correct**.
 
 7. ✅ Correct – &&= assigns only if the variable is truthy.
 
